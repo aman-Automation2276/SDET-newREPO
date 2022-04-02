@@ -1,0 +1,5 @@
+class NewTest
+{
+  @Test
+  system.out.println("Pull check")
+}
